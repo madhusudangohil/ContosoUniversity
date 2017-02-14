@@ -48,6 +48,12 @@ d:\learning\MVC\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Depl
 d:\learning\MVC\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
 d:\learning\MVC\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
 d:\learning\MVC\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
-d:\learning\MVC\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
 d:\learning\MVC\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 d:\learning\MVC\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+d:\learning\MVC\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+d:\learning\MVC\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+d:\learning\MVC\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+d:\learning\MVC\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+d:\learning\MVC\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+d:\learning\MVC\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.initial.resources
+d:\learning\MVC\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
