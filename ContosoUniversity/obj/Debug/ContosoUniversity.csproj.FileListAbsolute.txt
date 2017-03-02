@@ -54,10 +54,11 @@ d:\learning\MVC\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
 d:\learning\MVC\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
 d:\learning\MVC\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
 d:\learning\MVC\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
-d:\learning\MVC\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
 d:\learning\MVC\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.initial.resources
 d:\learning\MVC\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
 d:\learning\MVC\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
 d:\learning\MVC\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
 d:\learning\MVC\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
 d:\learning\MVC\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+d:\learning\MVC\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.columnfirstname.resources
+d:\learning\MVC\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.complextables.resources

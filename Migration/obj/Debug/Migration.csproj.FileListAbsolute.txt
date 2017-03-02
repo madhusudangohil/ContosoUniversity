@@ -1,0 +1,5 @@
+d:\learning\MVC\ContosoUniversity\Migration\bin\Debug\Migration.exe.config
+d:\learning\MVC\ContosoUniversity\Migration\bin\Debug\Migration.exe
+d:\learning\MVC\ContosoUniversity\Migration\bin\Debug\Migration.pdb
+d:\learning\MVC\ContosoUniversity\Migration\obj\Debug\Migration.exe
+d:\learning\MVC\ContosoUniversity\Migration\obj\Debug\Migration.pdb

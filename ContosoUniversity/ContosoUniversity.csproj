@@ -165,19 +165,37 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="ContosoConfiguration.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\StudentsController.cs" />
     <Compile Include="DAL\SchoolContext.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Logger.cs" />
+    <Compile Include="Logging\ContosoInterceptorLogging.cs" />
+    <Compile Include="Logging\ContosoInterceptorTransientErrors.cs" />
+    <Compile Include="Logging\ILogger.cs" />
+    <Compile Include="Logging\Logger.cs" />
     <Compile Include="Migrations\201702141231468_initial.cs" />
     <Compile Include="Migrations\201702141231468_initial.Designer.cs">
       <DependentUpon>201702141231468_initial.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201703022209180_columnfirstname.cs" />
+    <Compile Include="Migrations\201703022209180_columnfirstname.Designer.cs">
+      <DependentUpon>201703022209180_columnfirstname.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703022318355_complextables.cs" />
+    <Compile Include="Migrations\201703022318355_complextables.Designer.cs">
+      <DependentUpon>201703022318355_complextables.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Course.cs" />
+    <Compile Include="Models\Department.cs" />
     <Compile Include="Models\Enrollment.cs" />
+    <Compile Include="Models\EnrollmentDateGroup.cs" />
+    <Compile Include="Models\Instructor.cs" />
+    <Compile Include="Models\OfficeAssignment.cs" />
     <Compile Include="Models\Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -194,6 +212,7 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="Properties\PublishProfiles\gohilcontosouniversity - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -246,6 +265,12 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201702141231468_initial.resx">
       <DependentUpon>201702141231468_initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703022209180_columnfirstname.resx">
+      <DependentUpon>201703022209180_columnfirstname.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703022318355_complextables.resx">
+      <DependentUpon>201703022318355_complextables.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
